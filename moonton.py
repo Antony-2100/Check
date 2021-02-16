@@ -8,9 +8,9 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
+# Author         : Danma                                  #
+# Github         : https://github.com/KamZ0                 #
+# Facebook       : https://www.facebook.com/B4YU.TAN9GUH         #
 # Telegram       : https://t.me/DulLah                     #
 # Python version : 3.7++                                   #
 ############################################################
@@ -64,7 +64,7 @@ class MOONTON:
 |V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
 | |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 ---------------------------------------------
-          - Created By (DulLah) -
+          - Created By (Danma) -
 ---------------------------------------------\n''')
 ##########################################
 # Please don't remove the author name :( #
@@ -188,9 +188,6 @@ class MOONTON:
             )
           )
         )
-      )
-      ask = input(
-        '[?] Apakah ingin menggunakan proxy?(\033[92mDisarankan\033[0m) [Y/t]: '
       )
       if ask.lower(
       ).strip(
